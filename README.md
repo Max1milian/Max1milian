@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maximilian Stocker
 - 👀 I’m interested in Computer Hardware, low level software development
-- 🌱 I’m currently learning C/C++, CMake and SFML
+- 🌱 I’m currently learning C/C++, CMake and SFML/Raylib
 
 <!---
 Max1milian/Max1milian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
