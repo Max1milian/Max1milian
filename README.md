@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maximilian Stocker
+- 👋 Hi, I’m Maximilian
 - 👀 I’m interested in Computer Hardware, low level software development
 - 🌱 I’m currently learning C/C++, CMake and SFML/Raylib
 
